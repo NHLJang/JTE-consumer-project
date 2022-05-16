@@ -1,5 +1,5 @@
 jte {
-    allow_scm_jenkinsfile = false // If = true, Jenkinsfile will work as JTE template.
+    allow_scm_jenkinsfile = true 
 }
 libraries {
     docker
